@@ -1,0 +1,55 @@
+
+ body {
+
+    background-image: url(img/interstellar-wallpaper01.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1920px;
+
+    
+
+
+ }
+
+ #trailer {
+
+    background-image: url(img/interstellar-wallpaper02.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px;
+    color: white;
+    align-content: center;
+ }
+
+
+header {
+
+    text-align: center;
+
+}
+
+div.container {
+display: flex;
+justify-content: center;
+
+}
+
+ul.navigation {
+    list-style: none;
+    display: flex;
+    padding: 0%;
+    
+    
+}
+
+
+
+a {
+
+    text-decoration: none;
+    color: black;
+}
+
+audio::-webkit-media-controls-panel {
+
+    background-color: #6E809F;
+    position: relative;
+}
